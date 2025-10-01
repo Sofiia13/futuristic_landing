@@ -2,7 +2,7 @@
 
 const form = document.querySelector('.questions__form');
 
-form.addEventListener('submit', function (event) {
+form.addEventListener('submit', function(event) {
   event.preventDefault();
   this.reset();
 });
