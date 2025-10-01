@@ -19,23 +19,23 @@ The design features a minimalist, futuristic style with a dark color palette and
 
 ## 🚀 Getting Started
 1. Clone the repository:
-```bash
-git clone https://github.com/sofiia13/futuristic_landing.git
-cd futuristic_landing
-```
-
+   
+    ```bash
+    git clone https://github.com/sofiia13/futuristic_landing.git
+    cd futuristic_landing
+    ```
 
 2. **Install dependencies (if any):**
 
-```bash
-npm install
-```
+    ```bash
+    npm install
+    ```
 
 3. **Run the project locally:**
 
-```bash
-npm start
-```
+    ```bash
+    npm start
+    ```
 
 4. **Open index.html in your browser if no build system is used.**
 
